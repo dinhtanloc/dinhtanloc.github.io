@@ -11,7 +11,7 @@
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-7px;
-  border: 6px solid rgba(0, 77, 64, 0.4); 
+  border: 6px solid rgba(40, 87, 79, 0.4); 
   border-radius: 50% !important;
 }
 
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: hsla(207, 66%, 72%, 0.908) repeat;
   position: relative;
 }
 
@@ -441,6 +441,10 @@ h3 {
   margin-left: 24px;
 }
 
+.typing {
+  color: #b9cce0 !important; /* Thay đổi mã màu thành màu bạn muốn */
+}
+
 .card ul li li {
   color: #666;
   font-size: 13px;
@@ -448,6 +452,7 @@ h3 {
 
 .card .card-title {
   font-size: 24px;
+  /* color: ; */
 }
 
 .card .card-content .card-title {
@@ -549,7 +554,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #008073 !important;
+  color: #77b3ad !important;
 }
 
 /* .teal-text {
@@ -559,7 +564,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  background-color: #11546e !important;
 }
 
 /* .teal {
