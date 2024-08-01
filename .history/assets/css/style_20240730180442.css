@@ -136,7 +136,7 @@ body {
 /* main a -- links */
 
 /* a {
-  color: #222d75;
+  color: ##222d75;
 } */
 
 a {
@@ -602,7 +602,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #222d75;
+    color: ##222d75;
     height: 56px;
     line-height: 56px;
   }
